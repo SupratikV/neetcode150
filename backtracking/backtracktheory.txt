@@ -1,0 +1,2 @@
+Dynamic Programming is the technique of utilizing the answer of 
+smaller problem set to find the answer of a larger problem set.
