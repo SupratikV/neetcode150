@@ -30,7 +30,6 @@ def bfs(node):
                 q.append(ele.right)
         level+=1
     return level
-
     
 #iterative dfs
 def iterdfs(node):
